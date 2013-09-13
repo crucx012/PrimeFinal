@@ -1,0 +1,5 @@
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\PrimeFinal\PrimeFinal\bin\Debug\PrimeFinal.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\PrimeFinal\PrimeFinal\bin\Debug\PrimeFinal.pdb
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\PrimeFinal\PrimeFinal\obj\Debug\PrimeFinal.csprojResolveAssemblyReference.cache
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\PrimeFinal\PrimeFinal\obj\Debug\PrimeFinal.dll
+C:\Users\wblack\Documents\Visual Studio 2012\Projects\PrimeFinal\PrimeFinal\obj\Debug\PrimeFinal.pdb
